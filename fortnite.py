@@ -29,7 +29,7 @@ os.system('cls||clear')
 intro = Fore.LIGHTBLUE_EX + """
   -----------------------------------------------------
  ★ Thank you for using this project
- ★ Need help: https://discord.gg/vazB8YYAWG
+ ★ Need help: https://discord.gg/Yd4Y7n8avE
   -----------------------------------------------------
 """
 
@@ -38,7 +38,7 @@ print(intro)
 response = requests.get("https://benbot.app/api/v1/status")
 patch = response.json()["currentFortniteVersion"]
 
-print(f'\nThis project is made by Frostyghost#8454\n')
+print(f'\nThis project is made by Simon_leaks\n')
 
 def lenPartyMembers():
     members = client.party.members

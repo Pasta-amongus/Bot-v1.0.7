@@ -28,7 +28,7 @@ os.system('cls||clear')
 
 intro = Fore.LIGHTBLUE_EX + """
   -----------------------------------------------------
- ★ Thank you for using this project
+ ★ Thank you for using my bot
  ★ Need help: https://discord.gg/Yd4Y7n8avE
   -----------------------------------------------------
 """

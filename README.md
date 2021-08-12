@@ -1,12 +1,7 @@
 # Bot-v1.00
 Fortnite Lobbybot
 
-Repl is NOT WORKING
-
-u can find the code for chapta here 
-https://www.epicgames.com/id/logout?redirectUrl=https%3A//www.epicgames.com/id/login%3FredirectUrl%3Dhttps%253A%252F%252Fwww.epicgames.com%252Fid%252Fapi%252Fredirect%253FclientId%253D3446cd72694c4a4485d81b77adbb2141%2526responseType%253Dcode
-
-
-
-
-(done with part of ezfn setup)
+steps:
+1) Download and unzip this: https://github.com/Pasta-al-sugo/Bot-v1.00
+2) In the unzipped folder open "Settings.json" and modify it as you want 
+3) Run "Install packages.bat" then run "Start bot.bat" , if you close the command prompt your bot will shut down.

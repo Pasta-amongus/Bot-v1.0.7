@@ -13,3 +13,5 @@ elif current == github:
     print('No update!')
 os.chdir(os.getcwd())
 os.execv(os.sys.executable,['python','fortnite.py'])
+
+

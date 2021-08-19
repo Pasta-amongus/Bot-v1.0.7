@@ -1,16 +1,24 @@
 {
-    "email": "youremail@gmail.com",
-    "password": "yourpassword",
+    "email": "YOUR_EMAIL",
+    "password": "YOUR_PASSWORD",
     "cid": "CID_028_Athena_Commando_F",
     "bid": "BID_004_BlackKnight",
+    "eid": "eid_shaka",
     "pid": "Pickaxe_Lockjaw",
-    "banner": "otherbanner27",
-    "banner_color": "defaultcolor22",
-    "level": "501",
-    "bp_tier": "501",
-    "status": "PastaBot - https://discord.gg/qkqQedzZ",
+    "banner": "otherbanner28",
+    "banner_colour": "defaultcolor22",
+    "level": "999",
+    "bp_tier": "999",
+    "status": "https://discord.gg/pavJwQDuFZ",
     "platform": "PSN",
-    "friendaccept": "True",
-    "joinoninvite": "False",
-    "AdminPassword": "123"
+    "friendaccept": "true",
+    "joinoninvite": "true",
+    "AdminPassword": "001",
+    "FullAccess": [
+        "",
+        ""
+    ],
+    "BlockList": [
+        ""
+    ]
 }

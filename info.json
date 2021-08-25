@@ -1,0 +1,19 @@
+{
+    "email": "",
+    "password": "",
+    "cid": "CID_155_Athena_Commando_F_Gumshoe",
+    "avatar": "CID_046_Athena_Commando_F_HolidaySweater",
+    "bid": "BID_004_BlackKnight",
+    "pid": "Pickaxe_Lockjaw",
+    "banner": "BRS10Astronaut",
+    "banner_color": "defaultcolor22",
+    "level": "59",
+    "bp_tier": "59",
+    "prefix": "!",
+    "platform": "WIN",
+    "playlist": "Playlist_Lite_Solo",
+    "friendaccept": "true",
+    "joinoninvite": "true",
+    "AdminPassword": "0001",
+    "FullAccess": [""]
+}

@@ -1,5 +1,5 @@
 fortnitepy
+aiohttp
+colorama
 BenBotAsync
-crayons
-pypresence
-psutil
+requests

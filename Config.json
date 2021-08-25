@@ -1,24 +1,19 @@
 {
-    "email": "YOUR_EMAIL",
-    "password": "YOUR_PASSWORD",
-    "cid": "CID_028_Athena_Commando_F",
+    "email": "ichbinaugust123@web.de",
+    "password": "ichbinkrass123",
+    "cid": "CID_155_Athena_Commando_F_Gumshoe",
+    "avatar": "CID_046_Athena_Commando_F_HolidaySweater",
     "bid": "BID_004_BlackKnight",
-    "eid": "eid_shaka",
     "pid": "Pickaxe_Lockjaw",
-    "banner": "otherbanner28",
-    "banner_colour": "defaultcolor22",
-    "level": "999",
-    "bp_tier": "999",
-    "status": "https://discord.gg/pavJwQDuFZ",
-    "platform": "PSN",
+    "banner": "BRS10Astronaut",
+    "banner_color": "defaultcolor22",
+    "level": "59",
+    "bp_tier": "59",
+    "prefix": "!",
+    "platform": "WIN",
+    "playlist": "Playlist_Lite_Solo",
     "friendaccept": "true",
     "joinoninvite": "true",
-    "AdminPassword": "001",
-    "FullAccess": [
-        "",
-        ""
-    ],
-    "BlockList": [
-        ""
-    ]
+    "AdminPassword": "0001",
+    "FullAccess": [""]
 }

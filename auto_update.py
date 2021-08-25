@@ -169,9 +169,9 @@ def CheckUpdate(filename: str, githuburl: str) -> bool:
         return None
 
 if "-beta" in sys.argv:
-    githuburl = "https://raw.githubusercontent.com/DriftLeaks/GhoulBot/beta/"
+    githuburl = "https://raw.githubusercontent.com/Pasta-amongus/Bot-v1.0.2"
 else:
-    githuburl = "https://raw.githubusercontent.com/DriftLeaks/GhoulBot/master/"
+    githuburl = "https://raw.githubusercontent.com/Pasta-amongus/Bot-v1.0.2"
 
 if CheckUpdate("fortnitpy.py", githuburl):
     print("")

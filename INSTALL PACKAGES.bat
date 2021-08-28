@@ -1,22 +1,14 @@
-@ECHO OFF
-REM BFCPEOPTIONSTART
-REM Advanced BAT to EXE Converter www.BatToExeConverter.com
-REM BFCPEEXE=
-REM BFCPEICON=
-REM BFCPEICONINDEX=-1
-REM BFCPEEMBEDDISPLAY=0
-REM BFCPEEMBEDDELETE=1
-REM BFCPEADMINEXE=0
-REM BFCPEINVISEXE=0
-REM BFCPEVERINCLUDE=0
-REM BFCPEVERVERSION=1.0.0.0
-REM BFCPEVERPRODUCT=Product Name
-REM BFCPEVERDESC=Product Description
-REM BFCPEVERCOMPANY=Your Company
-REM BFCPEVERCOPYRIGHT=Copyright Info
-REM BFCPEOPTIONEND
-@ECHO ON
-py -3 -m pip install -U pip
-py -3 -m pip install -U -r requirements.txt
-pause
-© 2021 GitHub, Inc.
+@echo off
+ECHO Installing the required packages for the bot!
+TIMEOUT 3
+
+py -3 -m pip install -U fortnitepy
+py -3 -m pip install -U aiohttp
+py -3 -m pip install -U colorama
+py -3 -m pip install -U BenBotAsync
+
+
+ECHO Done! Now run START BOT.bat
+py fortnite.py
+cmd /k
+PAUSE

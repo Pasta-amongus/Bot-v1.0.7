@@ -1,19 +1,24 @@
 {
     "email": "",
     "password": "",
-    "cid": "CID_155_Athena_Commando_F_Gumshoe",
-    "avatar": "CID_046_Athena_Commando_F_HolidaySweater",
+    "cid": "CID_005_Athena_Commando_M_DEFAULT",
     "bid": "BID_004_BlackKnight",
     "pid": "Pickaxe_Lockjaw",
-    "banner": "BRS10Astronaut",
+    "banner": "otherbanner28",
     "banner_color": "defaultcolor22",
-    "level": "59",
-    "bp_tier": "59",
-    "prefix": "!",
-    "platform": "WIN",
-    "playlist": "Playlist_Lite_Solo",
-    "friendaccept": "true",
-    "joinoninvite": "true",
+    "level": "999",
+    "bp_tier": 999,
+    "status": "Battle Royale Lobby - 1 / 16",
+    "platform": "PSN",
+    "friendaccept": "True",
+    "joinoninvite": "True",
     "AdminPassword": "0001",
-    "FullAccess": [""]
+    "FullAccess": [
+    "riso con polo",
+    ""
+    ],
+    "BlockList": [
+    "",
+    ""
+    ]
 }

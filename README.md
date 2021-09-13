@@ -11,6 +11,7 @@ https://www.epicgames.com/site/it/home
 4) u can find a valid authorization code here:
 https://rebrand.ly/authcode
 
+bot is working for 18.00 patch
 
 u can start this on replit! using this link
 [![Run on Repl.it](https://repl.it/badge/github/Pasta-amongus/Bot-v1.0.5)](https://repl.it/github/Pasta-amongus/Bot-v1.0.5)

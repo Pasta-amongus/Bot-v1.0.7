@@ -3,7 +3,7 @@ Fortnite Lobbybot
 
 steps:
 create a new fortnite account here:
-https://www.epicgames.com/site/it/home
+https://www.epicgames.com/store/
 
 1) Download and unzip this: https://github.com/Pasta-amongus/Bot-v1.0.5
 2) In the unzipped folder open "Config.js" and modify it as you want 

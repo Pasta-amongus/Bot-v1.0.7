@@ -1615,4 +1615,6 @@ try:
     client.run()
 except fortnitepy.AuthException as e:
     print(Fore.RED + f" [PYBOT] [{getTime()}] [ERROR] {e}")
+      
+      
 

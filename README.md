@@ -1,4 +1,4 @@
-# Bot-v1.0.5
+# Bot-v1.0.6
 Fortnite Lobbybot
 
 steps:

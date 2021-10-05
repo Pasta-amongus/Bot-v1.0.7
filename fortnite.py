@@ -32,7 +32,7 @@ sei proprio un coglione
 
 print(intro)
 
-response = requests.get("https://benbotfn.tk/api/v1/status")
+response = requests.get("https://benbot.app/api/v1/status")
 patch = response.json()["currentFortniteVersion"]
 
 print(f'\n A free lobbybot network, created by pasta amongus. Fixed by Plague-creator#3486 for Patch {patch}.\n')

@@ -1,24 +1,16 @@
 {
-    "email": "",
-    "password": "",
-    "cid": "CID_039_athena_commando_f_disco",
-    "bid": "BID_004_BlackKnight",
-    "pid": "Pickaxe_Lockjaw",
-    "banner": "otherbanner28",
+    "email": "email@gmail.com",
+    "password": "Yourpassword",
+    "cid": "cid_619_athena_commando_f_techllama",
+    "bid": "BID_004_blackKnight",
+    "pid": "Pickaxe_ID_092_Bling",
+    "banner": "otherbanner27",
     "banner_color": "defaultcolor22",
     "level": "1000",
-    "bp_tier": 999,
-    "status": "Battle Royale Lobby - 1 / 16",
+    "bp_tier": "1000",
+    "status": "Pasta amongus bot",
     "platform": "WIN",
     "friendaccept": "True",
     "joinoninvite": "False",
-    "AdminPassword": "0001",
-    "FullAccess": [
-    "riso con polo",
-    ""
-    ],
-    "BlockList": [
-    "",
-    ""
-    ]
+    "AdminPassword": "123"
 }
